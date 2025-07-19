@@ -45,7 +45,7 @@
 - [x] Refine design and content based on testing
 
 ### Phase 6: Package and deliver the complete website files to user
-- [x] Create a zip archive of the project directory
-- [x] Provide instructions for deployment on GitHub Pages
-- [x] Deliver the zip file to the user
+- [ ] Create a zip archive of the project directory
+- [ ] Provide instructions for deployment on GitHub Pages
+- [ ] Deliver the zip file to the user
 
